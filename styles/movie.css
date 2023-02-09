@@ -42,3 +42,7 @@ body
     size: 150%;
     color: aliceblue;
 }
+.select-label
+{
+    color: white;
+}
