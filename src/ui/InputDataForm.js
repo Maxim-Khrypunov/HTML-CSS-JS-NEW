@@ -33,7 +33,6 @@ export class DataForm
         this.submitButton = document.querySelector(".submit");
         this.submitButton.addEventListener("click",async()=>
         {
-            
         if(!checkPlayingTime(this.timeInput.value)){return;}
         const link = this.select.value;
         this.player.setUrl(link);

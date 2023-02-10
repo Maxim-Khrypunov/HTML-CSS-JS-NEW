@@ -32,6 +32,11 @@ body
     margin-left: 2vw;
     width: 196px;
 }
+.form-select
+{
+    width: 8vw;
+    height: 4.2vh;
+}
 .result
 {
     display: block;
