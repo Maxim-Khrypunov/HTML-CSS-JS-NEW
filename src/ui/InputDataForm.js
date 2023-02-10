@@ -5,7 +5,7 @@ import { VideoPlayer } from "./video_player.js";
 
 export class DataForm
 {
-    submitButton
+    submitButton;
     select;
     constructor(parentElementClass)
     {
